@@ -9,3 +9,8 @@ print(is_online or has_access)
 #stap3 
 status = False
 print(not(status))
+
+#stap 4
+age = 20
+id = True
+print(age>18 and id)
