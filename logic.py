@@ -39,3 +39,6 @@ username = ""
 dafault = "guest"
 print(username or dafault)
 
+#stap 9
+
+print(True and False or True)
