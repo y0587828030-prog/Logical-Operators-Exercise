@@ -19,12 +19,23 @@
 # level = 3
 # print(1<level and 5>level)
 
-#stap 6
-a = 0
-b = "hello"
-c = ""
+# #stap 6
+# a = 0
+# b = "hello"
+# c = ""
 
-print(bool(a))
-print(bool(b))
-print(bool(c))
+# print(bool(a))
+# print(bool(b))
+# print(bool(c))
+
+# #stap 7
+# x = None
+# y = 42
+
+# print(x or y)
+
+#stap 7
+username = "" 
+dafault = "guest"
+print(username or dafault)
 
