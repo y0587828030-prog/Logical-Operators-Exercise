@@ -42,3 +42,7 @@ print(username or dafault)
 #stap 9
 
 print(True and False or True)
+
+#stap 10
+score = 75
+print(60 <= score <= 100)
